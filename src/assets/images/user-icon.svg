@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="17.778" viewBox="0 0 16 17.778">
+  <g id="Icon_feather-user" data-name="Icon feather-user" transform="translate(-5 -3.5)" opacity="0.6">
+    <path id="Path_314" data-name="Path 314" d="M20.111,28.611a.889.889,0,0,1-.889-.889V25.944a2.67,2.67,0,0,0-2.667-2.667H9.444a2.67,2.67,0,0,0-2.667,2.667v1.778a.889.889,0,0,1-1.778,0V25.944A4.449,4.449,0,0,1,9.444,21.5h7.111A4.449,4.449,0,0,1,21,25.944v1.778A.889.889,0,0,1,20.111,28.611Z" transform="translate(0 -7.333)" fill="#fff"/>
+    <path id="Path_315" data-name="Path 315" d="M15.444,3.5A4.444,4.444,0,1,1,11,7.944,4.449,4.449,0,0,1,15.444,3.5Zm0,7.111a2.667,2.667,0,1,0-2.667-2.667A2.67,2.67,0,0,0,15.444,10.611Z" transform="translate(-2.444 0)" fill="#fff"/>
+  </g>
+</svg>
